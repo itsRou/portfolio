@@ -16,7 +16,7 @@ export default function Home() {
         <div className="container hero-inner">
           <div className="hero-photo">
             <Image
-              src="https://raw.githubusercontent.com/itsRou/portfolio/master/public/photo.jpg"
+              src="https://raw.githubusercontent.com/itsRou/portfolio/master/public/photo.jpeg"
               alt={profile.name}
               width={220}
               height={220}
