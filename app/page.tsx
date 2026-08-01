@@ -16,11 +16,12 @@ export default function Home() {
         <div className="container hero-inner">
           <div className="hero-photo">
             <Image
-              src="/photo.jpg"
+              src="https://raw.githubusercontent.com/itsRou/portfolio/master/public/photo.jpg"
               alt={profile.name}
               width={220}
               height={220}
               priority
+              unoptimized
               className="photo"
             />
           </div>

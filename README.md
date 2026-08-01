@@ -3,7 +3,7 @@
 Personal portfolio site built with Next.js, showcasing my background in
 data science, machine learning, and software engineering.
 
-- Live site: (added after deploy)
+- Live site: https://rodayna-emad-portfolio.vercel.app
 - Contact: rodynaemad@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rodayna-emad/
 
