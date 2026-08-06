@@ -30,7 +30,6 @@ export default function Home() {
             <h1>{profile.name}</h1>
             <p className="subtitle">{profile.title}</p>
             <p className="location">{profile.location}</p>
-            <p className="summary">{profile.summary}</p>
             <div className="cta-row">
               <a className="btn btn-primary" href={`mailto:${profile.email}`}>
                 Email me
